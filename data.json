@@ -1,0 +1,15 @@
+{
+    "Beam Lenght": "10",
+    "Moment Of Inertia": 10000000,
+    "Young's Module": 200000,
+    "Length Unit": "Meter (m)",
+    "Force Unit": "Newton (N)",
+    "Moment Unit": "(Nm)",
+    "Load Magnitude Unit": "(N/m)",
+    "Supports": [],
+    "Loads": [],
+    "Hesaplanmasi istenenler": [
+        "Bending Moment Diagram (BMD)",
+        "Shear Force Diagram (SFD)"
+    ]
+}
